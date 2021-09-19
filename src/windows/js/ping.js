@@ -1,3 +1,5 @@
+// OUTDATED
+
 const pingButton = document.getElementById("pingSubmit");
 const deletePings = document.getElementById("deletePings");
 
